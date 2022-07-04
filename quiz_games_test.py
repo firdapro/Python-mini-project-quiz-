@@ -8,7 +8,7 @@ if playing.lower() != "yes":
 print("NICE! Let's play :)")
 score = 0
 
-# Question 1
+# Question 1(MCQ)
 answer = input("Q1.How many bits does IPV4 have?\nA. 64\nB. 128\nC. 144\nD. 255 ")
 if answer.lower() == "a":
     print("Correct!")
@@ -16,7 +16,7 @@ if answer.lower() == "a":
 else:
     print("Incorrect")
 
-# Question 2
+# Question 2(MCQ)
 print("Q2.How many bits does IPV6 have? ")
 print("A. 62")
 print("B. 128")

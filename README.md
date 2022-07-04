@@ -1,2 +1,2 @@
 # Python-mini-project-quiz-
-Mini python project consist basic syntax such as 
+Mini python project on quizzes
